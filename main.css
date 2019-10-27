@@ -1,0 +1,31 @@
+body {
+    font-size: 16px;
+    text-align: center;
+}
+
+#copyright {
+    font-size: 80%;
+    text-align: left;
+}
+
+header {
+    text-decoration: underline;
+    font-size: 2em;
+    text-align: center;
+}
+
+.hopesQuestion {
+    font-weight: bold;
+}
+
+html {
+    background-color: #3bad59;
+}
+
+img {
+    border: 8px dotted #7bf277;
+}
+
+.nav {
+    text-align: center;
+}
